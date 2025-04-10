@@ -1,2 +1,15 @@
-# gotime
-Go 时间工具库 专注于时间类型的高频转换场景，提供「开箱即用」的标准化代码示例：
+Go Time Utilities​​ ⏰
+A collection of idiomatic Go examples for time type conversions:
+
+✅ ​​Time ↔ String​​ (Formatting & Parsing with time.Layout)
+✅ ​​Time ↔ Timestamp​​ (Nanosecond/unix conversions)
+✅ ​​String ↔ Timestamp​​ (String parsing to/from epoch)
+✅ Timezone conversions & duration calculations
+
+Designed for quick copy-paste usage with zero dependencies. Contributions welcome!
+
+​​Common Use Cases​​:
+• API timestamp handling
+• Database time serialization
+• Logging with custom formats
+• Cross-timezone comparisons
